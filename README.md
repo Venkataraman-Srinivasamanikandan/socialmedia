@@ -3,10 +3,9 @@ Social media API with unit testing and code coverage
 
 ## To run the server
 
-    ```
     step 1 : npm i
     step 2 : npm start
-    ```
+
 ## To run unit testing and code coverage:
 
     ```
